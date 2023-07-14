@@ -1,6 +1,7 @@
+📈 Data analysis, 📊 data visualization 
+
 ### Hi there 👋
 
-📈 Data analysis, 📊 data visualization, 
 - 🔭 I’m currently a freelancer and working as an independent contractor.
 - 🌱 I’m also learning building shiny apps and dashboards. I'm always learning how to become a better data scientist and data storyteller.
 - 💕 I'm a huge R enthusiast and proudly part of the amazing R community. As an avid R user, I'm constantly looking for opportunities to contribute and strengthen our community bonds.
